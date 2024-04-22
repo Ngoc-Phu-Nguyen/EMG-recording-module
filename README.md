@@ -1,7 +1,6 @@
 # EMG-recording-module
-Design for the hardware of EMG recording module ||
+Design for the hardware of EMG recording module  and 3D with cases||
 Code for system: STM8S, bluetooth HC-05, EMG recording module || 
-Model 3D with cases
 # Hardware of EMG recording module
 The module use a system filter that enough to clean the signal input before going to ADC. The ADC have I2C interface and programmable gain. The I2C is useful for multiple devices if necessary, and the programmable gain use for auto adjustment function.
 ![image](https://github.com/Ngoc-Phu-Nguyen/EMG-recording-module/assets/167606858/3327e0c2-1637-467c-a296-a321152d9cee)
@@ -25,3 +24,11 @@ Fig4. The real one - this module includes two main parts: Transmitter and receiv
 ![image](https://github.com/Ngoc-Phu-Nguyen/EMG-recording-module/assets/167606858/a62b4619-b6bb-43ef-abd1-c7eeff61201e)
 
 Fig 5. Result of signal EMG from the module - Signal is quite clean. There is almost no noise and interference. The sampling rate of signal is 3ms.
+
+# Coding
+Using the tool ST Visual Develop to program and debug for STM8S: setup: CLK, peripheral - I2C, UART,...
+
+Using Arduino and tool Arduino IDE to program for HC-05 (AT command)
+
+Using tool STM32CubeIDE to program and debug for SMT32: peripheral UART
+
