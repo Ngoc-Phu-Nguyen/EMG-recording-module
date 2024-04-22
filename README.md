@@ -8,4 +8,6 @@ Model 3D with case
 ![image](https://github.com/Ngoc-Phu-Nguyen/EMG-recording-module/assets/167606858/687bb0ca-f5f9-4752-8612-ac4acf11f1bb)
 ![image](https://github.com/Ngoc-Phu-Nguyen/EMG-recording-module/assets/167606858/e004eac3-4560-4483-9917-e861d33dcd6b)
 ![image](https://github.com/Ngoc-Phu-Nguyen/EMG-recording-module/assets/167606858/a89d26a2-8852-4482-8f2b-0c47af93fad9)
+![image](https://github.com/Ngoc-Phu-Nguyen/EMG-recording-module/assets/167606858/4862e8de-a274-4f45-a0b3-f4eacfdc6938)
+
 
